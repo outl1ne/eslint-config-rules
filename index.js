@@ -522,7 +522,7 @@ module.exports = {
             2, "never"
         ],
         "react/jsx-indent": [
-            2, 2
+            1, 2
         ],
     }
 };

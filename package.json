@@ -1,6 +1,6 @@
 {
   "name": "@optimistdigital/eslint-config-rules",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Optimist Digital ESLint rules",
   "main": "index.js",
   "repository": {
@@ -8,7 +8,7 @@
     "url": "git+https://github.com/optimistdigital/eslint-config-rules.git"
   },
   "contributors": [
-      "Matis Lepik <matis.lepik@gmail.com> (http://matislepik.eu/)"
+    "Matis Lepik <matis.lepik@gmail.com> (http://matislepik.eu/)"
   ],
   "peerDependencies": {
     "eslint": "^3.5.0",

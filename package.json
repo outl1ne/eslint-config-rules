@@ -13,7 +13,7 @@
   "peerDependencies": {
     "eslint": "^3.5.0",
     "eslint-plugin-import": "^1.16.0",
-    "eslint-plugin-react": "^6.3.0",
+    "eslint-plugin-react": "^6.3.0"
   },
   "license": "MIT",
   "bugs": {

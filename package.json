@@ -10,6 +10,11 @@
   "contributors": [
       "Matis Lepik <matis.lepik@gmail.com> (http://matislepik.eu/)"
   ],
+  "peerDependencies": {
+    "eslint": "^3.5.0",
+    "eslint-plugin-import": "^1.16.0",
+    "eslint-plugin-react": "^6.3.0",
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/optimistdigital/eslint-config-rules/issues"

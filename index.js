@@ -219,7 +219,8 @@ module.exports = {
             1, {
                 "code": 120,
                 "ignoreComments": true,
-                "ignoreUrls": true
+                "ignoreUrls": true,
+                "ignoreTemplateLiterals": true
             }
         ],
         "max-nested-callbacks": 0,

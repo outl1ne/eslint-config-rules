@@ -184,7 +184,7 @@ module.exports = {
         "func-style": 0,
         "id-length": 0,
         "indent": [
-            2,
+            1,
             2, {
                 "SwitchCase": 1
             }

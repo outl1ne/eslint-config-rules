@@ -305,7 +305,7 @@ module.exports = {
         "space-infix-ops": 2,
         "space-unary-ops": 0,
         "spaced-comment": [
-            2,
+            1,
             "always", {
                 "exceptions": [
                     "-", "+"
@@ -515,7 +515,7 @@ module.exports = {
         "react/require-render-return": 2,
         "react/self-closing-comp": 0,
         "react/jsx-space-before-closing": [
-            2, "always"
+            1, "always"
         ],
         "react/sort-comp": 0,
         "react/jsx-first-prop-new-line": 0,

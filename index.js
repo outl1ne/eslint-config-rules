@@ -333,7 +333,7 @@ module.exports = {
         ],
         "no-use-before-define": 0,
         "arrow-body-style": [
-            2, "as-needed"
+            1, "as-needed"
         ],
         "arrow-parens": 0,
         "arrow-spacing": [
@@ -353,7 +353,7 @@ module.exports = {
         ],
         "no-const-assign": 2,
         "no-dupe-class-members": 2,
-        "no-duplicate-imports": 2,
+        "no-duplicate-imports": 1,
         "no-new-symbol": 2,
         "no-restricted-globals": 0,
         "no-restricted-imports": 0,

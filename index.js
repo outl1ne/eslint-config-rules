@@ -362,7 +362,7 @@ module.exports = {
         "no-useless-computed-key": 2,
         "no-useless-constructor": 2,
         "object-shorthand": [
-            2, "always"
+            1, "always"
         ],
         "prefer-arrow-callback": [
             2, {

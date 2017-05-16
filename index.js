@@ -521,7 +521,7 @@ module.exports = {
                 "beforeSelfClosing": "always",
                 "afterOpening": "never"
             }
-        ]
+        ],
         "react/jsx-first-prop-new-line": 0,
         "react/jsx-equals-spacing": [
             2, "never"

@@ -514,10 +514,14 @@ module.exports = {
         ],
         "react/require-render-return": 2,
         "react/self-closing-comp": 0,
-        "react/jsx-space-before-closing": [
-            1, "always"
-        ],
         "react/sort-comp": 0,
+        "react/jsx-tag-spacing": [
+            1, {
+                "closingSlash": "never",
+                "beforeSelfClosing": "always",
+                "afterOpening": "never"
+            }
+        ]
         "react/jsx-first-prop-new-line": 0,
         "react/jsx-equals-spacing": [
             2, "never"

@@ -327,6 +327,7 @@ module.exports = {
         "no-undefined": 0,
         "no-unused-vars": [
             1, {
+                "ignoreRestSiblings": true,
                 "vars": "local",
                 "args": "after-used"
             }

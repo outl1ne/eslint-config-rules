@@ -11,7 +11,7 @@
     "Matis Lepik <matis.lepik@gmail.com> (http://matislepik.eu/)"
   ],
   "peerDependencies": {
-    "eslint": "^3.5.0",
+    "eslint": "^3.5.0 || 4.x.x",
     "eslint-plugin-import": ">= 1.16.0",
     "eslint-plugin-react": ">= 6.x.x <= 7.x.x"
   },

@@ -375,7 +375,7 @@ module.exports = {
         "prefer-spread": 0,
         "prefer-reflect": 0,
         "prefer-rest-params": 2,
-        "prefer-template": 1,
+        "prefer-template": 0,
         "require-yield": 0,
         "sort-imports": 0,
         "template-curly-spacing": 2,

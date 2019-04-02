@@ -12,8 +12,8 @@ module.exports = {
         ],
         "default-case": 0,
         "dot-notation": [
-            2, {
-                "allowKeywords": true
+            1, {
+              "allowKeywords": true
             }
         ],
         "dot-location": 0,
@@ -63,11 +63,7 @@ module.exports = {
         "no-new-wrappers": 2,
         "no-octal": 2,
         "no-octal-escape": 2,
-        "no-param-reassign": [
-            2, {
-                "props": true
-            }
-        ],
+        "no-param-reassign": 0,
         "no-process-env": 0,
         "no-proto": 2,
         "no-redeclare": 2,
@@ -230,10 +226,10 @@ module.exports = {
             }
         ],
         "new-cap": [
-            2, {
-                "newIsCap": true
+            1, {
+                capIsNewExceptionPattern: '^(.*.)*[A-Z]{2,}'
             }
-        ],
+          ],
         "new-parens": 0,
         "newline-after-var": 0,
         "newline-before-return": 0,

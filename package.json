@@ -1,6 +1,6 @@
 {
   "name": "@optimistdigital/eslint-config-rules",
-  "version": "1.7.4",
+  "version": "2.0.0",
   "description": "Optimist Digital ESLint rules",
   "main": "index.js",
   "repository": {

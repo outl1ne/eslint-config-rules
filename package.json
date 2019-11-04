@@ -8,12 +8,11 @@
     "url": "git+https://github.com/optimistdigital/eslint-config-rules.git"
   },
   "contributors": [
-    "Matis Lepik <matis.lepik@gmail.com> (http://matislepik.eu/)"
+    "Matis Lepik <matis.lepik@gmail.com> (https://matislepik.com/)"
   ],
   "peerDependencies": {
     "eslint": ">= 3.5.0",
-    "eslint-plugin-import": ">= 1.16.0",
-    "eslint-plugin-react": ">= 6.x.x"
+    "eslint-plugin-import": ">= 1.16.0"
   },
   "license": "MIT",
   "bugs": {
